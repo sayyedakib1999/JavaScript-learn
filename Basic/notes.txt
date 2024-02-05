@@ -1,0 +1,12 @@
+. Constant jo hai vo change nahi ho sakta, ya fir hum usko declare kr saktai not to change .
+
+. Let : Let jo hai vo Var ka Updated syntax hai .
+
+. Comment : Javascript mai hum 2 tarha say comment declare kr saktai 
+    i. Dobble Slash ( // ): basically yeh single line comment ko use hota hai .
+    ii. Slash star star Slash ( /**/ ) : yeh use hota multiple line comment likh nay ko .
+
+. Hum directly bhi koe bhi variable declare kr saktai without using Let & Const 
+
+. consle.log("") : Use to print the output (In Non tabular formate).
+. consle.table([]) : Use to print the output (In tabular formate).
