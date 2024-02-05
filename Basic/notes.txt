@@ -1,4 +1,5 @@
-till Chapter No 6 , Source ()
+till Chapter No 5   , Source () 
+
 
 . Constant jo hai vo change nahi ho sakta, ya fir hum usko declare kr saktai not to change .
 
@@ -14,3 +15,5 @@ till Chapter No 6 , Source ()
 . consle.table([]) : Use to print the output (In tabular formate).
 
 . When we declare the any variable aur use mai koe value declare nahi kr tai to vo undefined print hota hai .
+
+
