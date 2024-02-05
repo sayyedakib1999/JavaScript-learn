@@ -10,3 +10,5 @@
 
 . consle.log("") : Use to print the output (In Non tabular formate).
 . consle.table([]) : Use to print the output (In tabular formate).
+
+. When we declare the any variable aur use mai koe value declare nahi kr tai to vo undefined print hota hai .

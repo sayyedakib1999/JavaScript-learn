@@ -13,6 +13,6 @@ accCity = "Pune"
 Var is Outdated Please not use 
 in futher programes (Var jo hai vo outdated hogya hai, mostly vo abhi use nahi hot hai)
 */
-
-console.table([accId, accEmail, accPass, accCity]) /* console.table say hum data Tabular formate mai print kr saktai hai */
+let accState;
+console.table([accId, accEmail, accPass, accCity, accState]) /* console.table say hum data Tabular formate mai print kr saktai hai */
 
