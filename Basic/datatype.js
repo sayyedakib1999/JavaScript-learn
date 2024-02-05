@@ -8,3 +8,6 @@
   
     // console.log("AKib"); // code must be redable , semicolon is optional ...
 
+let name = "Akib" //String Datatype
+let age = 54 //Number Datatype
+let isLoggedIn = True //Boolean Datatype 
