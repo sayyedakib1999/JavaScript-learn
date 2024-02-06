@@ -16,6 +16,3 @@
 // console.log(2**3);
 // console.log(2/3);
 // console.log(2%3);
-
-let num = 30 
-console.log(num);
