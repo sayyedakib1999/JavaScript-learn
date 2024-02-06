@@ -34,7 +34,3 @@ console.log(typeof undefined); // It shows the type of datatype , wheather it is
 but when we try to find out the typeof null then it show the object,
 some people says that it is error & some people says the it is santerd formate. */
 
-if (true) {
-    var x = 5;
-  }
-  console.log(x); // x is 
