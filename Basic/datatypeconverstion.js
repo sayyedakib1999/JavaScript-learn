@@ -1,4 +1,4 @@
-let score = 1
+/* let score = 1
 let score1 = "1"
 let score2 = "1a"
 let score3 = null
@@ -52,4 +52,29 @@ console.log(valueInNumber);
 // "33aba" => NaN Showes Not A Number 
 // null => object , 0
 // True => 1 | False => 0
-// undefine => 0 
+// undefine => 0 */
+
+let isLoggedIn = 1
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
+
+let isLoggedOut = 0
+let booleanIsLoggedOut = Boolean(isLoggedOut)
+console.log(booleanIsLoggedOut);
+
+// we can also convet the string into boolean value 
+
+let myName = "Akib"
+let userName = String(myName)
+console.log(myName)
+
+// we can Convert Number into the string 
+
+let myUsername = "Akib"
+let cUsername = Boolean(myUsername)
+console.log(cUsername); /* when we try to change string into boolean 
+(The empty string showes the "FALSE" vale & the string that contain any value shoes "TRUE" Vale) */
+
+//1 => true | 0 => false 
+/* "" => false | "Akib" => True (If The String is empty it show the "FALSE" value, 
+but when the string contain some thing it show "TRUE") */
