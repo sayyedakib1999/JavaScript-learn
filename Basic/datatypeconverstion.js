@@ -1,4 +1,4 @@
-/* let score = 1
+let score = 1
 let score1 = "1"
 let score2 = "1a"
 let score3 = null
